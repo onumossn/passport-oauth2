@@ -34,7 +34,7 @@
   "main": "./lib",
   "dependencies": {
     "passport-strategy": "1.x.x",
-    "oauth": "https://github.com/onumossn/node-oauth.git#auth-header-check",
+    "oauth": "git://github.com/onumossn/node-oauth.git#auth-header-check",
     "uid2": "0.0.x"
   },
   "devDependencies": {
